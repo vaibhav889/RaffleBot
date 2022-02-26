@@ -7,4 +7,4 @@ client = commands.bot(command_prefix = '$')
 async def on_ready():
 print('Bot is ready.')
 
-client.run('OTQ3MDEzNDE5Nzc5ODg3MTE2.YhnE-Q.gZ_8htObgsmocVu8-GAq9_VfEws')
+client.run('token')
